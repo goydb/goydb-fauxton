@@ -24,8 +24,8 @@
         "variables": {
           "title": "Project Fauxton",
           "generationLabel": "Fauxton Dev",
-          "largeLogoPath": "../../../../../assets/img/CouchDB-negative-logo.png",
-          "smallLogoPath": "../../../../../assets/img/couchdb-logo.png"
+          "largeLogoPath": "../../../../../assets/img/goydb-negative-logo.png",
+          "smallLogoPath": "../../../../../assets/img/goydb-logo.png"
         },
         "app": {
           "root": "/",
@@ -39,8 +39,8 @@
         "variables": {
           "title": "Project Fauxton",
           "generationLabel": "Fauxton Release",
-          "largeLogoPath": "../../../../../assets/img/CouchDB-negative-logo.png",
-          "smallLogoPath": "../../../../../assets/img/couchdb-logo.png"
+          "largeLogoPath": "../../../../../assets/img/goydb-negative-logo.png",
+          "smallLogoPath": "../../../../../assets/img/goydb-logo.png"
         },
         "app": {
           "root": "/",
@@ -54,8 +54,8 @@
         "variables": {
           "title": "Project Fauxton",
           "generationLabel": "Fauxton Couchapp",
-          "largeLogoPath": "../../../../../assets/img/CouchDB-negative-logo.png",
-          "smallLogoPath": "../../../../../assets/img/couchdb-logo.png"
+          "largeLogoPath": "../../../../../assets/img/goydb-negative-logo.png",
+          "smallLogoPath": "../../../../../assets/img/goydb-logo.png"
         },
         "app": {
           "root": "/",
