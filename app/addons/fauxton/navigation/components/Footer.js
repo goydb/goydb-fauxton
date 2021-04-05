@@ -21,7 +21,7 @@ const Footer = ({version}) => {
   return (
     <div className="faux-navbar__version-footer">
       Fauxton on &nbsp;
-      <a href="http://couchdb.apache.org/">Apache CouchDB</a>
+      <a href="https://github.com/goydb">goydb</a>
       <div>v. {version}</div>
       <a href={`https://docs.couchdb.org/en/latest/whatsnew/${version.split('.').slice(0, 2).join('.')}.html`}>What&apos;s New?</a>
     </div>
